@@ -5,7 +5,7 @@ All the files used in the notebooks are in the repository or hosted in the cloud
 
 ## Index of Contents
 
-[Unit 1](index.ipynb)
+1. [Unit 1](unit-1/index.ipynb)
 
 ## TODOs
 
